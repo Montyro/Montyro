@@ -1,4 +1,6 @@
 ## Welcome to my Github
+:brain: Currently studying a MSc in Deep Learning for Audio and Video Processing 
+
 ```
 
 
