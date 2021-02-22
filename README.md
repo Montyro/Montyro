@@ -1,5 +1,5 @@
 ## Welcome to my Github
-:brain: Currently studying a MSc in Deep Learning for Audio and Video Processing 
+:brain: Currently studying a Master in Deep Learning for Audio and Video Processing 
 
 <!--
 **Montyro/Montyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
