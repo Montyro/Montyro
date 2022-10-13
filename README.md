@@ -1,5 +1,5 @@
 ## Welcome to my Github
-:brain: Currently starting a PhD in computer vision
+:brain: PhD student currently doing research in computer vision.
 
 <!--
 **Montyro/Montyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
