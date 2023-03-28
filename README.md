@@ -1,5 +1,11 @@
 ## Welcome to my Github
-:brain: PhD student currently doing research in computer vision.
+Hi, I'm Javier Montalvo, a PhD student currently doing research in computer vision, with a background in Mathematics and Computer Science.
+
+:telescope: I’m currently working on synthetic data generation for machine learning, and on LiDAR Semantic Segmentation.
+
+As of now I have a published paper: :page_with_curl: [Exploiting semantic segmentation to boost reinforcement learning in video game environments](https://link.springer.com/article/10.1007/s11042-022-13695-1)
+
+I'm also a :world_map: Co-founder of [VooyAI]([https:](https://vooyai.com/) an AI-powered travel discovery app.
 
 <!--
 **Montyro/Montyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
