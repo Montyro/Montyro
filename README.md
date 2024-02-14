@@ -5,8 +5,9 @@
 
 :page_with_curl: As of now I have a published paper:  [Exploiting semantic segmentation to boost reinforcement learning in video game environments](https://link.springer.com/article/10.1007/s11042-022-13695-1)
 
-<!--:world_map: I'm also a Co-founder of [VooyAI](https://vooyai.com/), an AI-powered travel discovery app.-->
 
+:world_map: I'm Co-founder of [VooyAI](https://vooyai.com/), an AI-powered travel discovery app.
+:duck: And Co-Founder of [Quackmate](https://quackmate.com), an AI-powered social network manager that creates and publishes content automatically.
 <!--
 **Montyro/Montyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
