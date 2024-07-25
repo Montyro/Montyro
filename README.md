@@ -3,8 +3,7 @@
 
 :telescope: I’m currently working on synthetic data generation for machine learning, and on LiDAR Semantic Segmentation.
 
-:page_with_curl: As of now I have a published paper:  [Exploiting semantic segmentation to boost reinforcement learning in video game environments](https://link.springer.com/article/10.1007/s11042-022-13695-1)
-
+:page_with_curl: You can explore some of my papers and projects in [my website!](https://jmontalvo-cv.vercel.app/)
 
 :world_map: I'm Co-founder of [VooyAI](https://vooyai.com/), an AI-powered travel discovery app.
 
