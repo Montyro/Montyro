@@ -1,4 +1,13 @@
-## Hi there 👋
+## Welcome to my Github
+:brain: Hi, I'm Javier Montalvo. I'm a Computer Vision researcher, did my PhD at the VPULab from the Universidad Autónoma de Madrid. Have a background in Mathematics and Computer Science.
+
+:page_with_curl: You can explore some of my papers and projects in [my website!](https://jmontalvo-cv.vercel.app/)
+
+Some of my personal projects are:
+
+🗺️ [VooyAI](https://vooyai.com/), an AI-powered travel discovery app (currently offline)
+
+🦆 [Quackmate](https://quackmate.com), an AI-powered social network manager that creates and publishes content automatically.
 
 <!--
 **Montyro/Montyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
