@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-🧠 Hi, I'm Javier Montalvo, a Computer Vision researcher. I completed my PhD at the VPULab (Universidad Autónoma de Madrid) and have a background in Mathematics and Computer Science.
+🧠 Hi, I’m Javier Montalvo, an Applied ML Engineer with a PhD in Computer Vision. I build production CV models, training pipelines, and applied ML systems.
 
 <!--📄 You can find a portfolio of my papers and projects on [my website](https://jmontalvo-cv.vercel.app/).-->
 
